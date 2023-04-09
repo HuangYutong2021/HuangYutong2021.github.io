@@ -16,20 +16,33 @@ I studied at International campus of Zhejiang University, where all of my profes
 To be filled.
 
 
+## Skills
+Category | Item
+-----|-------
+Programming | Python (favourite), R, Linux (still learning)
+Tool | MySQL, Git, Latex, Adobe Audition, Adobe Photoshop (a little)
+Language | Mandarin, English: IELTS 7
+Hobby | Singing, broadcasting and hosting，Piano, Dancing
+
+## Student Positions
+* 2020.9-present: League branch secretary
+* 2021.9-2022.9: Deputy Director of Organization Department of Youth League Committee of International Campus
+* 2021.9-2022.9: Head of Zhejiang university international campus novel sound broadcasting club
+
 ## Honors
 
 
 Year | Honor 
 -----|-------
-2022 | National Scholarship 
-2022 | Zhejiang University Scholarship - First Prize
-2022 | Outstanding League Leader of Zhejiang University
-2022 | Academic excellence model, A model for cultural and sports activities, Social work model
-2021 | National Scholarship 
-2021 | Zhejiang University Scholarship - First Prize
+2020-2021 & 2021-2022 | National Scholarship 
+2020-2021 & 2021-2022 | Zhejiang University Scholarship - First Prize
+2021-2022 | Outstanding League Leader of Zhejiang University
+2021-2022 | Academic excellence model, Social work model
+ | National Scholarship 
+2020-2021 | A model for cultural and sports activities, 
 
 
-
+## Competitions
 
 Year | Competition | Rank
 -----|---------------|--------
