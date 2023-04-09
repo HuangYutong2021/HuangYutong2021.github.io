@@ -38,7 +38,6 @@ Year | Honor
 2020-2021 & 2021-2022 | Zhejiang University Scholarship - First Prize
 2021-2022 | Outstanding League Leader of Zhejiang University
 2021-2022 | Academic excellence model, Social work model
- | National Scholarship 
 2020-2021 | A model for cultural and sports activities, 
 
 
