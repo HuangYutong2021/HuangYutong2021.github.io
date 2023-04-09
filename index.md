@@ -24,7 +24,7 @@ Category | Item
 Programming | Python (favourite), R, Linux (still learning)
 Tool | MySQL, Git, Latex, Adobe Audition, Adobe Photoshop (a little)
 Language | Mandarin, English: IELTS 7 (6)
-Hobby | Singing, broadcasting and hosting,Piano,Dancing
+Hobby | Singing, broadcasting and hosting, Piano, Dancing
 
 ---
 ## Student Positions
@@ -36,7 +36,7 @@ Hobby | Singing, broadcasting and hosting,Piano,Dancing
 
 
 Year | Honor 
------|-------
+---------|-------
 2020-2021 & 2021-2022 | National Scholarship 
 2020-2021 & 2021-2022 | Zhejiang University Scholarship - First Prize
 2021-2022 | Outstanding League Leader of Zhejiang University
