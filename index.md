@@ -6,40 +6,44 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a junior year student of B.E. Biomedical Informatics at Zhejiang University-University of Edinburgh Institute, China.
+I studied at International campus of Zhejiang University, where all of my professional courses were exclusively taught in English.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+To be filled.
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Honors
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Year | Honor 
+-----|-------
+2022 | National Scholarship 
+2022 | Zhejiang University Scholarship - First Prize
+2022 | Outstanding League Leader of Zhejiang University
+2022 | Academic excellence model, A model for cultural and sports activities, Social work model
+2021 | National Scholarship 
+2021 | Zhejiang University Scholarship - First Prize
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Year | Competition | Rank
+-----|---------------|--------
+2022 | The 8h China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition | Gold Award 
+2021 | Zhejiang University Choral Competition | First prize 
+2021 | Singing competition of International Campus | Top 9th
+2021 | Social Practice Evaluation of International Campus in 2021 Winter Vacation | Second prize 
 
-Here is a horizontal rule
 
 ---
+## Major Research experience
 
-Here is a blockquote
+> **Student Research Training Program**:[Benchmarking RNA velocity bioinformatics tools]
+> Team leader
 
-> To a great mind, nothing is little
+> Supervisor: [Wanlu Liu](https://labw.org/) *Assistant Professor, ZJU-UoE institute, Zhejiang University* 
 
-## References
+> Time: Mar. 2022 - present
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
