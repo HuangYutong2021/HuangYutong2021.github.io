@@ -19,6 +19,7 @@ To be filled.
 
 ---
 ## Skills
+
 Category | Item
 -----|-------
 Programming | Python (favourite), R, Linux (still learning)
