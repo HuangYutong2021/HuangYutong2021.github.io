@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpeg">
 
 Hi! I am a junior year student of B.E. Biomedical Informatics at Zhejiang University-University of Edinburgh Institute, China.
 I studied at International campus of Zhejiang University, where all of my professional courses were exclusively taught in English.
