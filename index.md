@@ -12,12 +12,12 @@ Hi! I am a junior year student of B.E. Biomedical Informatics at Zhejiang Univer
 I studied at International campus of Zhejiang University, where all of my professional courses were exclusively taught in English.
 
 
-
+---
 ## Research Interest
 
 To be filled.
 
-
+---
 ## Skills
 Category | Item
 -----|-------
@@ -26,11 +26,12 @@ Tool | MySQL, Git, Latex, Adobe Audition, Adobe Photoshop (a little)
 Language | Mandarin, English: IELTS 7 (6)
 Hobby | Singing, broadcasting and hosting,Piano,Dancing
 
+---
 ## Student Positions
 * 2020.9-present: League branch secretary
 * 2021.9-2022.9: Deputy Director of Organization Department of Youth League Committee of International Campus
 * 2021.9-2022.9: Head of Zhejiang university international campus novel sound broadcasting club
-
+---
 ## Honors
 
 
@@ -42,7 +43,7 @@ Year | Honor
 2021-2022 | Academic excellence model, Social work model
 2020-2021 | A model for cultural and sports activities, 
 
-
+---
 ## Competitions
 
 Year | Competition | Rank
