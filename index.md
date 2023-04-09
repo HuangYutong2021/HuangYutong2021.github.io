@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpeg">
+<img class="profile-picture" src="profile.jpeg", width="100">
 
 Hi! I am a junior year student of B.E. Biomedical Informatics at Zhejiang University-University of Edinburgh Institute, China.
 I studied at International campus of Zhejiang University, where all of my professional courses were exclusively taught in English.
@@ -21,8 +21,8 @@ Category | Item
 -----|-------
 Programming | Python (favourite), R, Linux (still learning)
 Tool | MySQL, Git, Latex, Adobe Audition, Adobe Photoshop (a little)
-Language | Mandarin, English: IELTS 7
-Hobby | Singing, broadcasting and hosting，Piano, Dancing
+Language | Mandarin, English: IELTS 7 (6)
+Hobby | Singing, broadcasting and hosting,Piano,Dancing
 
 ## Student Positions
 * 2020.9-present: League branch secretary
