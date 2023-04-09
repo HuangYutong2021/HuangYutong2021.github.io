@@ -29,6 +29,8 @@ Year | Honor
 2021 | Zhejiang University Scholarship - First Prize
 
 
+
+
 Year | Competition | Rank
 -----|---------------|--------
 2022 | The 8h China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition | Gold Award 
@@ -40,7 +42,7 @@ Year | Competition | Rank
 ---
 ## Major Research experience
 
-> **Student Research Training Program**:[Benchmarking RNA velocity bioinformatics tools]
+> **Student Research Training Program**: Benchmarking RNA velocity bioinformatics tools
 > Team leader
 
 > Supervisor: [Wanlu Liu](https://labw.org/) *Assistant Professor, ZJU-UoE institute, Zhejiang University* 
