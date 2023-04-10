@@ -32,6 +32,8 @@ Hobby | Singing, broadcasting and hosting, Piano, Dancing
 * 2020.9-present: League branch secretary
 * 2021.9-2022.9: Deputy Director of Organization Department of Youth League Committee of International Campus
 * 2021.9-2022.9: Head of Zhejiang university international campus novel sound broadcasting club
+
+
 ---
 ## Honors
 
