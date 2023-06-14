@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My Home Page
 ---
 
 ## About Me
