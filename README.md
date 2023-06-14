@@ -70,3 +70,5 @@ Year | Competition | Rank
 
 > Time: Mar. 2022 - present
 
+
+More information can be seen in my [Resume](https://github.com/HuangYutong2021/HuangYutong2021.github.io/blob/gh-pages/CV-Yutong(Chinese_version).pdf)
