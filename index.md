@@ -15,7 +15,8 @@ I studied at International campus of Zhejiang University, where all of my profes
 ---
 ## Research Interest
 
-To be filled.
+Bioinformatics, genetics, epigenetics.
+Cancer.
 
 ---
 ## Skills
