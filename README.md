@@ -1,9 +1,3 @@
-# HuangYutong2021.github.io
-Personal resume
----
-layout: default
----
-
 ## About Me
 
 <p align="center">
