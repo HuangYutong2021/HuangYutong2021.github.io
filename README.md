@@ -4,7 +4,7 @@
 <img class="profile-picture" src="profile.jpeg" alt="Image description" width="300" >
 </p>
 
-Hi! I am a phD student in Tsinghua University. I am supervised by Prof. Wei Xie.
+Hi! I am a phD student in Tsinghua University. My supervisor is Prof. Wei Xie.
 I used to study at International campus of Zhejiang University, where all of my professional courses were exclusively taught in English.
 
 
